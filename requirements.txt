@@ -1,4 +1,8 @@
 pandas
 numpy
 seaborn
+sys
+os
+logging
+datetime
 -e .
